@@ -18,8 +18,8 @@ This repository contains **5 different implementations** of speech-to-speech AI 
 |----------------|-----------------|-------------|-------------------|------------|
 | OpenAI Basic | ~2-5 seconds | Basic (gTTS) | ❌ | Low |
 | OpenAI + Pipecat | ~1-3 seconds | Basic (gTTS) | ⚠️ Partial | Medium |
-| OpenAI + ElevenLabs + Pipecat | **~75-150ms** | Excellent | ✅ Full | High |
-| OpenAI + ElevenLabs + Pipecat + Streaming | **~50-100ms** | Excellent | ✅ Full | Very High |
+| OpenAI + ElevenLabs + Pipecat | **~750-1500ms** | Excellent | ✅ Full | High |
+| OpenAI + ElevenLabs + Pipecat + Streaming | **~500-1000ms** | Excellent | ✅ Full | Very High |
 | OpenAI + Pipecat + Streaming | ~500ms-1s | Basic (gTTS) | ✅ Full | High |
 
 ## 🏗️ Architecture Breakdown
